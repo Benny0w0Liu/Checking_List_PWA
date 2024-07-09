@@ -1,6 +1,7 @@
 {
     "name": "Checking List",
     "short_name": "Checking List",
+    "start_url": "./index.html",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
